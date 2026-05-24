@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     "Gaming, Konsolen, Gaming-Maus, Gaming-Tastatur, Gaming-Headset, Gaming-Monitor, PS5, Xbox, Nintendo Switch, Vergleich, Test",
   authors: [{ name: "GamingVergleich.de" }],
   robots: "index, follow",
+  other: {
+    "google-adsense-account": "ca-pub-7676593353613357",
+  },
 };
 
 export default function RootLayout({
